@@ -1,9 +1,9 @@
-# asm-example
+# cpp-example
 <strong>Esempi in c/c++ </strong>
 <br>
 <br>
 (c) 02/2017 - Raffaele Ficcadenti (raffaele.ficcadenti@gmail.com) <br>
-Ho cercato di raccogliere in questo repository, piccoli esempi di programmazione in c/cpp 
+Ho cercato di raccogliere in questo repository, piccoli esempi di programmazione in c/c++ per linux 
 Per ogni correzione o suggerimento, non esitate a scrivermi.<br>
 Se volete provare ogni singolo esempio andate sul mio sito <a href="http://www.raffaeleficcadenti.it/">www.raffaeleficcadenti.it</a> nella sezione: <a href="https://www.raffaeleficcadenti.it">i miei sviluppi: c/c++</a>.<br>
 Buon 'coding'.
